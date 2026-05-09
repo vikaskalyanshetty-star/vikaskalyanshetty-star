@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Vikas 👋
 
-<!--
-**vikaskalyanshetty-star/vikaskalyanshetty-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Holistic finance professional who builds AI-powered tools to solve real-world finance problems.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Finance is my profession — investments, taxation, planning, forecasting.  
+Code is how I extend what's possible.
+
+I build apps that sit at the intersection of financial expertise and AI, 
+designed for real users with real money on the line.
+
+## Stack
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `AI/LLM APIs`
+
+---
+
+📍 India · 💼 Finance Professional · 🤖 AI Builder
